@@ -1,0 +1,21 @@
+20 31
+RTTTTTTLRTTTLRTTTLRTTTLRTLRTTTL
+R______LR___LR___LR___LR_TT___L
+R______LR___LR___LR___LR______L
+R______LR_TTLR___LR___LR_[]___L
+R______LR___LRT_TTTT_TTT_L{BBB}
+RTT_TTTLR___LR___________LRTTTL
+R______LRTT_LR___________TT___L
+R______LR___LR___[]___[]______L
+{]_____LR___LR___LR___LR_[]___L
+ R_____LR___L{BBB}{BBB}R_L{BBB}
+RT_____TTT_TTTTTTTTTTTTT_LRTTTL
+R________________________LR___L
+R___________[BB]______[]_LR___L
+R______[]___L  R______TT_TT___L
+{B]__[B}RT_TTTLR______________L
+RTT__TTLR_____LR______[]______L
+R______LR_____LR______TT______L
+R_[]___LR_____LR______________L
+R_LR___LR_____LR______[]______L
+{B}{BBB}{BBBBB}{BBBBBB}{BBBBBB}

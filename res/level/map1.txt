@@ -1,0 +1,11 @@
+10 16
+RTTTLRTTTTLRTTTL
+R___TT____TT___L
+R______________L
+R___[]____[]___L
+{BBB}{]__[}{BBB}
+     RT__TL     
+     R____L     
+     R____L     
+     R____L     
+     {BBBB}     
